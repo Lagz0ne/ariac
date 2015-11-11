@@ -1,0 +1,33 @@
+{
+  "name": "ariac",
+  "version": "0.1.0",
+  "description": "Aria2c rpc client",
+  "main": "client.js",
+  "scripts": {
+    "test": "babel-node test.js",
+    "install": "babel src -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lagz0ne/ariac.git"
+  },
+  "keywords": [
+    "aria2c",
+    "rpc"
+  ],
+  "author": "Lagz0ne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lagz0ne/ariac/issues"
+  },
+  "homepage": "https://github.com/Lagz0ne/ariac#readme",
+  "dependencies": {
+    "jayson": "^1.2.1",
+    "rx": "^4.0.6"
+  },
+  "devDependencies": {
+    "babel": "^5.8.29",
+    "ps-node": "0.0.5",
+    "running": "0.0.1"
+  }
+}
