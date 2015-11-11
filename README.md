@@ -1,0 +1,1 @@
+I am in love with project [http://aria2.sourceforge.net/manual/en/html/aria2c.html] and they do have RPC interface for you to talk to daemon server. This project is just my trial to setup an easy communication method between any nodejs app to Aria server
